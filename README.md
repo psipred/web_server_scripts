@@ -1,2 +1,2 @@
 # web_server_scripts
-Web server helper scripts
+Small package of some ancillary helper scripts that don't really belong to our other packages
